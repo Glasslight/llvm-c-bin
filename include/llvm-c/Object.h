@@ -21,7 +21,7 @@
 
 #include "llvm-c/ExternC.h"
 #include "llvm-c/Types.h"
-#include "llvm/Config/llvm-config.h"
+#include "llvm-c/Config/llvm-config.h"
 
 LLVM_C_EXTERN_C_BEGIN
 
